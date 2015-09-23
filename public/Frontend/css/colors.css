@@ -1,0 +1,13 @@
+.primary-color,a{color:#222}.btn-primary{background:#222;color:#ccc;border:0}.btn-primary:hover{background:#666}footer h4{color:#ccc}.copyright a,.month{color:#666}a:hover{color:#26b9d3;text-decoration:none}.breadcrumb a{color:#222}.breadcrumb>li+li:before,.breadcrumb .active{color:#ccc}.btn .fa,.read-more .fa,.read-more,.service .fa,.icon.fa{color:#26b9d3}.first-foot{background:#eee}
+
+.designarea{background:#fff; padding:20px;}
+.shoedit{width:80%; margin:0 auto;  position:relative; text-align:center;}
+.shoedit img{max-width:100%; height:auto;}
+.rotatebar{text-align:center; color:#ccc; font-size:20px;}
+#crotate{cursor:pointer;}
+.w50p{ width:50%;}
+
+
+.styleshoe{margin:0; padding:0;}
+.styleshoe li{display:inline-block;  margin:0px 3px; width:90px; height:65px; border:1px #eee solid; background-image:url(../images/style-options-6.jpg);background-repeat:no-repeat; 
+}
